@@ -1,0 +1,12 @@
+email:
+  email: "harshil.thakkar.uow@gmail.com"
+  password: "siis dlbg piuh ghid"
+  to_email: "harshilbgt@gmail.com"
+
+sms:
+  account_sid: "your_twilio_account_sid"
+  auth_token: "your_twilio_auth_token"
+  from_phone: "+1234567890"
+  to_phone: "+0987654321"
+
+scraping_interval: 3600  # Scraping interval in seconds (e.g., every 1 hour)
